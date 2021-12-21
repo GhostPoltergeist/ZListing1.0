@@ -1,2 +1,1 @@
-# ZListing1.0
->>: ZLISTING :&lt;&lt;
+# ZListing 1.0
