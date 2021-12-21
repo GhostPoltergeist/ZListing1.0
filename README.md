@@ -3,8 +3,6 @@
 A dictionary is a Python container that maintains mappings of unique keys to values in an unordered and changeable way. Curly brackets () are used to write dictionaries, which include key-value pairs separated by commas (,). Each key is separated from its value by a colon (:).
 The dictionaries in Python are similar to hash tables. They're similar to Perl's associative arrays or hashes, and they're made up of key-value pairs. A dictionary key can be practically any Python type, but integers and strings are the most common. Values, on the other hand, may be any Python object you choose.
 
-:<<
-
 # >>: USAGE :<<
 ```
 git clone https://github.com/GhostPoltergeist/ZListing.git
